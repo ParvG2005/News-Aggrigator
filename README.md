@@ -58,7 +58,7 @@ Production-style daily AI news pipeline that scrapes YouTube and free public sou
 
 ## Run
 
-- `uv run python main.py 24 10`
+- `uv run python main.py 24 10` You can add additional argument (hours) and (number of news)
 
 ## Notes
 
